@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: netcatering@yahoo.com, cc_moses@msn.com
-At: 2026-09-16 13:48:48
-Id: olQbsLgK
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: gfjuly4@yahoo.com, jamiewcarl@hotmail.com
+At: 2026-09-16 13:49:27
+Id: bPaAv6u8
